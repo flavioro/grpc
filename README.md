@@ -10,5 +10,8 @@ Framework gRPC's complex use of HTTP/2 makes it impossible to implement a gRPC c
 * Bidirectional streaming using HTTP / 2;
 
 
-Protocol Buffers
+### Protocol Buffers
 <img src="https://ruthwik.github.io/img/protobuf/protobuf.png">
+
+### Types of gRPC APIs
+<img src="https://miro.medium.com/max/700/1*qFP_tJEdMYM2xmc2DbFW_A.png">
